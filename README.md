@@ -1,4 +1,4 @@
-# 🙂 Hey, I'm Sean Lang! 
+# 👋🏽 Hi, I'm Sean!
 
 🎓 I’m a **Computer Information Systems major at Florida A&M University (FAMU)** and former **Data Engineering Intern at STARZ**.  
  I’m passionate about **data systems, backend engineering, and cloud security** — building reliable pipelines that keep data accurate and efficient!
